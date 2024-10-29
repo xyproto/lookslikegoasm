@@ -28,9 +28,9 @@ func main() {
     `
 
     if lookslikegoasm.Consider(asmSource) {
-        fmt.Println("Looks like Go/Plan9-style Assembly")
+        fmt.Println("Looks like Go/Plan9 style Assembly")
     } else {
-        fmt.Println("Does not look like Go/Plan9-style Assembly")
+        fmt.Println("Does not look like Go/Plan9 style Assembly")
     }
 }
 ```
