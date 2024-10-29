@@ -16,7 +16,7 @@ package main
 import (
     "fmt"
 
-    "lookslikegoasm"
+    "github.com/xyproto/lookslikegoasm"
 )
 
 func main() {
